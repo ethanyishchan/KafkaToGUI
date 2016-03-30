@@ -2,7 +2,7 @@ from pykafka import KafkaClient
 import json
 import requests
 import time
-# from json import jsonify
+
 
 print "1"
 client = KafkaClient("127.0.0.1:9092")
@@ -16,18 +16,8 @@ print "2"
 #             print message.offset, message.value
 
 
-
-def postAdvisories(url, pos):
-	r = requests.post(url, verify=False,data= pos)
-
-topic_name = "advisory"
-
-# gufi_1 = "drone1"
-# gufi_2 = "drone2"
-# gufi_3 = "drone3"
-
-simulator_url = "http://127.0.0.1:5000/consume_advisory"
-live_url = "http://127.0.0.1:5000/consume_advisory_live"
+simulator_url = "http://127.0.0.1:5000/conflict"
+live_url = "http://127.0.0.1:5000/conflict_live"
 
 live = True
 
@@ -35,15 +25,20 @@ if live:
 	post_url = live_url
 else:
 	post_url = simulator_url
-	
+
+def postPosition(url, pos):
+	r = requests.post(url, verify=False,data= pos)
+
+topic_name = "status"
 topic = client.topics[topic_name]
 consumer = topic.get_simple_consumer()
 for msg in consumer:
 	if msg is not None:
 		# time.sleep(1)
+		print "msgmsg: ",msg
 		json_string = msg.value
+		drone1_json, drone2_json = json_string.split("~")
 		json_status = json.loads(json_string)
-		# print json_string
-		json_packet_list = json_status['advisories']
-		print json_packet_list
-		postAdvisories(live_url, json.dumps(json_packet_list))
+		position = json_status['flightId'] + "~" + json_status['lat'] + "~" +  json_status['lon']	 + "~" + json_status['heading']
+		print "posting: ", position
+		postPosition(post_url, position)
