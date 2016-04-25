@@ -20,6 +20,7 @@ simulator_url = "http://127.0.0.1:5000/conflict"
 live_url = "http://127.0.0.1:5000/conflict_live"
 
 live = True
+live = False
 
 if live:
 	post_url = live_url
@@ -37,7 +38,8 @@ for msg in consumer:
 		# time.sleep(1)
 		print "msgmsg: ",msg
 		json_string = msg.value
-		drone1_json, drone2_json = json_string.split("~")
+		print json_string
+		# drone1_json, drone2_json = json_string.split("~")
 		json_status = json.loads(json_string)
 		position = json_status['flightId'] + "~" + json_status['lat'] + "~" +  json_status['lon']	 + "~" + json_status['heading']
 		print "posting: ", position

@@ -8,18 +8,11 @@ print "1"
 client = KafkaClient("127.0.0.1:9092")
 print "2"
 
-# def consume():
-#     conflict_topic = client.topics['status']
-#     consumer = conflict_topic.get_simple_consumer()
-#     for message in consumer:
-#         if message is not None:
-#             print message.offset, message.value
-
-
 simulator_url = "http://127.0.0.1:5000/conflict"
 live_url = "http://127.0.0.1:5000/conflict_live"
 
 live = True
+# live = False
 
 if live:
 	post_url = live_url

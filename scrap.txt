@@ -1,6 +1,614 @@
-6c4caf0d-1a25-4aaa-bede-97724dbc9fcb%3129415.9335572775%6372154.145833451%2.12057504117%0.179999989271,
-
-
-
-{"flightId":"6c4caf0d-1a25-4aaa-bede-97724dbc9fcb","lat":"37.426850817","lon":"-122.173015007","speed":"0.179999989271","heading":"2.12057504117"}
-
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227373168","lon":"-122.174287507","speed":"0.153784373403","heading":"4.47589686674"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227226168","lon":"-122.174237807","speed":"0.170018537343","heading":"5.92242575079"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227373168","lon":"-122.174287507","speed":"0.153784373403","heading":"4.47589686674"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227226168","lon":"-122.174237807","speed":"0.170018537343","heading":"5.92242575079"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227373168","lon":"-122.174287507","speed":"0.153784373403","heading":"4.47589686674"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227226168","lon":"-122.174237807","speed":"0.170018537343","heading":"5.92242575079"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227373168","lon":"-122.174287507","speed":"0.153784373403","heading":"4.47589686674"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227226168","lon":"-122.174237807","speed":"0.170018537343","heading":"5.92242575079"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227408168","lon":"-122.174280807","speed":"0.17474951148","heading":"4.18093622315"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227226168","lon":"-122.174237807","speed":"0.170018537343","heading":"5.92242575079"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227408168","lon":"-122.174280807","speed":"0.17474951148","heading":"4.18093622315"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227203168","lon":"-122.174238307","speed":"0.298117017746","heading":"5.92242575079"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227408168","lon":"-122.174280807","speed":"0.17474951148","heading":"4.18093622315"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227203168","lon":"-122.174238307","speed":"0.298117017746","heading":"5.92242575079"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227408168","lon":"-122.174280807","speed":"0.17474951148","heading":"4.18093622315"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227203168","lon":"-122.174238307","speed":"0.298117017746","heading":"5.92242575079"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227408168","lon":"-122.174280807","speed":"0.17474951148","heading":"4.18093622315"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227203168","lon":"-122.174238307","speed":"0.298117017746","heading":"5.92242575079"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227408168","lon":"-122.174280807","speed":"0.17474951148","heading":"4.18093622315"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227203168","lon":"-122.174238307","speed":"0.298117017746","heading":"5.92242575079"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227408168","lon":"-122.174280807","speed":"0.17474951148","heading":"4.18093622315"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227203168","lon":"-122.174238307","speed":"0.298117017746","heading":"5.92242575079"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227408168","lon":"-122.174280807","speed":"0.17474951148","heading":"4.18093622315"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227203168","lon":"-122.174238307","speed":"0.298117017746","heading":"5.92242575079"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227403168","lon":"-122.174280307","speed":"0.120947188139","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227203168","lon":"-122.174238307","speed":"0.298117017746","heading":"5.92242575079"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227403168","lon":"-122.174280307","speed":"0.120947188139","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227161168","lon":"-122.174246207","speed":"0.22485383302","heading":"5.92242575079"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227403168","lon":"-122.174280307","speed":"0.120947188139","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227161168","lon":"-122.174246207","speed":"0.22485383302","heading":"5.92242575079"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227403168","lon":"-122.174280307","speed":"0.120947188139","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227161168","lon":"-122.174246207","speed":"0.173974514008","heading":"5.92242575079"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227314168","lon":"-122.174289107","speed":"0.208281201124","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227161168","lon":"-122.174246207","speed":"0.173974514008","heading":"5.92242575079"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227314168","lon":"-122.174289107","speed":"0.208281201124","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227161168","lon":"-122.174246207","speed":"0.173974514008","heading":"5.92242575079"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227314168","lon":"-122.174289107","speed":"0.208281201124","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227161168","lon":"-122.174246207","speed":"0.173974514008","heading":"5.92242575079"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227314168","lon":"-122.174289107","speed":"0.208281201124","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227161168","lon":"-122.174246207","speed":"0.173974514008","heading":"5.92242575079"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227367168","lon":"-122.174279607","speed":"0.285475686193","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227185168","lon":"-122.174236707","speed":"0.190295165777","heading":"5.92242575079"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227367168","lon":"-122.174279607","speed":"0.285475686193","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227185168","lon":"-122.174236707","speed":"0.190295165777","heading":"5.92242575079"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227367168","lon":"-122.174279607","speed":"0.285475686193","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227185168","lon":"-122.174236707","speed":"0.190295165777","heading":"5.92242575079"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227367168","lon":"-122.174279607","speed":"0.285475686193","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227185168","lon":"-122.174236707","speed":"0.190295165777","heading":"5.92242575079"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227367168","lon":"-122.174279607","speed":"0.285475686193","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227185168","lon":"-122.174236707","speed":"0.190295165777","heading":"5.92242575079"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227367168","lon":"-122.174279607","speed":"0.285475686193","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227185168","lon":"-122.174236707","speed":"0.190295165777","heading":"5.92242575079"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227367168","lon":"-122.174279607","speed":"0.285475686193","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227185168","lon":"-122.174236707","speed":"0.190295165777","heading":"5.92242575079"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227367168","lon":"-122.174279607","speed":"0.285475686193","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227185168","lon":"-122.174236707","speed":"0.190295165777","heading":"5.92242575079"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227367168","lon":"-122.174279607","speed":"0.285475686193","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227185168","lon":"-122.174236707","speed":"0.190295165777","heading":"5.92242575079"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227367168","lon":"-122.174279607","speed":"0.285475686193","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227185168","lon":"-122.174236707","speed":"0.190295165777","heading":"5.92242575079"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227367168","lon":"-122.174279607","speed":"0.285475686193","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227185168","lon":"-122.174236707","speed":"0.190295165777","heading":"5.92242575079"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227367168","lon":"-122.174279607","speed":"0.285475686193","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227185168","lon":"-122.174236707","speed":"0.190295165777","heading":"5.92242575079"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227367168","lon":"-122.174279607","speed":"0.285475686193","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227185168","lon":"-122.174236707","speed":"0.190295165777","heading":"5.92242575079"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227367168","lon":"-122.174279607","speed":"0.285475686193","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227185168","lon":"-122.174236707","speed":"0.190295165777","heading":"5.92242575079"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227367168","lon":"-122.174279607","speed":"0.285475686193","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227185168","lon":"-122.174236707","speed":"0.190295165777","heading":"5.92242575079"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227367168","lon":"-122.174279607","speed":"0.285475686193","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227223168","lon":"-122.174242707","speed":"0.25496121347","heading":"5.92242575079"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227367168","lon":"-122.174279607","speed":"0.285475686193","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227223168","lon":"-122.174242707","speed":"0.25496121347","heading":"5.92242575079"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227362168","lon":"-122.174287707","speed":"0.0609207384288","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227223168","lon":"-122.174242707","speed":"0.25496121347","heading":"5.92242575079"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227362168","lon":"-122.174287707","speed":"0.0609207384288","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227168168","lon":"-122.174480007","speed":"10.7763158798","heading":"4.99932110941"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227362168","lon":"-122.174287707","speed":"0.11007931307","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227168168","lon":"-122.174480007","speed":"10.7763158798","heading":"4.99932110941"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227362168","lon":"-122.174287707","speed":"0.11007931307","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227168168","lon":"-122.174480007","speed":"10.7763158798","heading":"4.99932110941"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227362168","lon":"-122.174287707","speed":"0.11007931307","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227168168","lon":"-122.174480007","speed":"10.7763158798","heading":"4.99932110941"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227362168","lon":"-122.174287707","speed":"0.11007931307","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227254168","lon":"-122.175152207","speed":"11.0030136108","heading":"4.99932110941"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227362168","lon":"-122.174287707","speed":"0.11007931307","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227254168","lon":"-122.175152207","speed":"11.0030136108","heading":"4.99932110941"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227362168","lon":"-122.174287707","speed":"0.11007931307","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227285168","lon":"-122.175377707","speed":"10.535128212","heading":"4.71710136937"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227478168","lon":"-122.174305607","speed":"0.590871709585","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227285168","lon":"-122.175377707","speed":"10.535128212","heading":"4.71710136937"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227478168","lon":"-122.174305607","speed":"0.590871709585","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227285168","lon":"-122.175377707","speed":"10.535128212","heading":"4.71710136937"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227478168","lon":"-122.174305607","speed":"0.590871709585","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227340168","lon":"-122.175607207","speed":"0.151906143129","heading":"4.71710136937"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227478168","lon":"-122.174305607","speed":"0.590871709585","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227340168","lon":"-122.175607207","speed":"0.151906143129","heading":"4.71710136937"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227478168","lon":"-122.174305607","speed":"0.308495181799","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227339168","lon":"-122.175605407","speed":"0.155183386803","heading":"1.87256375446"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227478168","lon":"-122.174305607","speed":"0.308495181799","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227339168","lon":"-122.175605407","speed":"0.155183386803","heading":"1.87256375446"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227478168","lon":"-122.174305607","speed":"0.308495181799","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227339168","lon":"-122.175605407","speed":"0.155183386803","heading":"1.87256375446"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227478168","lon":"-122.174305607","speed":"0.308495181799","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227339168","lon":"-122.175605407","speed":"0.155183386803","heading":"1.87256375446"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227478168","lon":"-122.174305607","speed":"0.308495181799","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227339168","lon":"-122.175605407","speed":"0.155183386803","heading":"1.87256375446"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227478168","lon":"-122.174305607","speed":"0.308495181799","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227339168","lon":"-122.175605407","speed":"0.155183386803","heading":"1.87256375446"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227478168","lon":"-122.174305607","speed":"0.308495181799","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227339168","lon":"-122.175605407","speed":"0.155183386803","heading":"1.87256375446"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227478168","lon":"-122.174305607","speed":"0.308495181799","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227339168","lon":"-122.175605407","speed":"0.155183386803","heading":"1.87256375446"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227478168","lon":"-122.174305607","speed":"0.308495181799","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227332168","lon":"-122.175607007","speed":"5.56030125618","heading":"0.61662482473"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227478168","lon":"-122.174305607","speed":"0.308495181799","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227332168","lon":"-122.175607007","speed":"5.56030125618","heading":"0.61662482473"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227462168","lon":"-122.174477907","speed":"0.397219598293","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227332168","lon":"-122.175607007","speed":"5.56030125618","heading":"0.61662482473"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227462168","lon":"-122.174477907","speed":"0.397219598293","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227332168","lon":"-122.175607007","speed":"5.56030125618","heading":"0.61662482473"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227462168","lon":"-122.174477907","speed":"0.398772865534","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227332168","lon":"-122.175607007","speed":"5.56030125618","heading":"0.61662482473"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227462168","lon":"-122.174477907","speed":"0.398772865534","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227332168","lon":"-122.175607007","speed":"5.56030125618","heading":"0.61662482473"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227462168","lon":"-122.174477907","speed":"0.398772865534","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227355168","lon":"-122.175549007","speed":"6.78741531372","heading":"0.61662482473"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227462168","lon":"-122.174477907","speed":"0.398772865534","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227355168","lon":"-122.175549007","speed":"6.78741531372","heading":"0.61662482473"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227462168","lon":"-122.174477907","speed":"0.398772865534","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227355168","lon":"-122.175549007","speed":"6.78741531372","heading":"0.61662482473"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227462168","lon":"-122.174477907","speed":"0.398772865534","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227355168","lon":"-122.175549007","speed":"6.78741531372","heading":"0.61662482473"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227462168","lon":"-122.174477907","speed":"0.398772865534","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227355168","lon":"-122.175549007","speed":"6.78741531372","heading":"0.61662482473"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227393168","lon":"-122.175209107","speed":"10.8043765068","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227355168","lon":"-122.175549007","speed":"6.78741531372","heading":"0.61662482473"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227393168","lon":"-122.175209107","speed":"10.8043765068","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227355168","lon":"-122.175549007","speed":"6.78741531372","heading":"0.61662482473"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227393168","lon":"-122.175209107","speed":"2.72329080105","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227355168","lon":"-122.175549007","speed":"6.78741531372","heading":"0.61662482473"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4227393168","lon":"-122.175209107","speed":"2.72329080105","heading":"5.84807472466"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227355168","lon":"-122.175549007","speed":"6.78741531372","heading":"0.61662482473"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4225870168","lon":"-122.175523607","speed":"9.56595726013","heading":"2.40279478122"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227355168","lon":"-122.175549007","speed":"6.78741531372","heading":"0.61662482473"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4225870168","lon":"-122.175523607","speed":"9.56595726013","heading":"2.40279478122"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227250168","lon":"-122.174977607","speed":"2.03712873459","heading":"1.7107717328"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4225870168","lon":"-122.175523607","speed":"9.56595726013","heading":"2.40279478122"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227250168","lon":"-122.174977607","speed":"2.03712873459","heading":"1.7107717328"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4225870168","lon":"-122.175523607","speed":"9.56595726013","heading":"2.40279478122"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227250168","lon":"-122.174977607","speed":"2.03712873459","heading":"1.7107717328"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4225325168","lon":"-122.175212507","speed":"7.68841609955","heading":"1.67813407579"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227250168","lon":"-122.174977607","speed":"2.03712873459","heading":"1.7107717328"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4225325168","lon":"-122.175212507","speed":"7.68841609955","heading":"1.67813407579"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227250168","lon":"-122.174977607","speed":"2.03712873459","heading":"1.7107717328"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4225325168","lon":"-122.175212507","speed":"7.68841609955","heading":"1.67813407579"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227250168","lon":"-122.174977607","speed":"2.03712873459","heading":"1.7107717328"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4225325168","lon":"-122.175212507","speed":"7.68841609955","heading":"1.67813407579"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227250168","lon":"-122.174977607","speed":"2.03712873459","heading":"1.7107717328"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4225325168","lon":"-122.175212507","speed":"7.68841609955","heading":"1.67813407579"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227250168","lon":"-122.174977607","speed":"1.41560769081","heading":"1.7107717328"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4225325168","lon":"-122.175212507","speed":"7.68841609955","heading":"1.67813407579"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227250168","lon":"-122.174977607","speed":"1.41560769081","heading":"1.7107717328"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4226590168","lon":"-122.174694207","speed":"0.15981695652","heading":"1.67813407579"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227250168","lon":"-122.174977607","speed":"1.41560769081","heading":"1.7107717328"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4226590168","lon":"-122.174694207","speed":"0.15981695652","heading":"1.67813407579"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227250168","lon":"-122.174977607","speed":"1.41560769081","heading":"1.7107717328"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4226590168","lon":"-122.174694207","speed":"0.15981695652","heading":"1.67813407579"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227250168","lon":"-122.174977607","speed":"1.41560769081","heading":"1.7107717328"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4226590168","lon":"-122.174694207","speed":"6.23788819313","heading":"1.67813407579"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227250168","lon":"-122.174977607","speed":"1.41560769081","heading":"1.7107717328"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4226590168","lon":"-122.174694207","speed":"6.23788819313","heading":"1.67813407579"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227250168","lon":"-122.174977607","speed":"1.41560769081","heading":"1.7107717328"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4226906168","lon":"-122.174571007","speed":"0.860041308403","heading":"1.67813407579"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4226058168","lon":"-122.174963407","speed":"9.48552360535","heading":"4.27012254793"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4226906168","lon":"-122.174571007","speed":"0.860041308403","heading":"1.67813407579"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4226058168","lon":"-122.174963407","speed":"9.48552360535","heading":"4.27012254793"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4226906168","lon":"-122.174571007","speed":"0.860041308403","heading":"1.67813407579"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4225240168","lon":"-122.175339207","speed":"10.5214536667","heading":"4.27012254793"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4226906168","lon":"-122.174571007","speed":"0.860041308403","heading":"1.67813407579"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4224853168","lon":"-122.175470607","speed":"0.810053622723","heading":"4.27012254793"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4226906168","lon":"-122.174571007","speed":"0.860041308403","heading":"1.67813407579"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4224853168","lon":"-122.175470607","speed":"0.810053622723","heading":"4.27012254793"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4226906168","lon":"-122.174571007","speed":"0.860041308403","heading":"1.67813407579"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4224853168","lon":"-122.175470607","speed":"0.810053622723","heading":"4.27012254793"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4226906168","lon":"-122.174571007","speed":"0.300470092893","heading":"0.974940920164"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4224853168","lon":"-122.175470607","speed":"0.810053622723","heading":"4.27012254793"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4226906168","lon":"-122.174571007","speed":"0.300470092893","heading":"0.974940920164"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4224853168","lon":"-122.175470607","speed":"0.810053622723","heading":"4.27012254793"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4226906168","lon":"-122.174571007","speed":"0.300470092893","heading":"0.974940920164"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4224853168","lon":"-122.175470607","speed":"0.810053622723","heading":"4.27012254793"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4226906168","lon":"-122.174571007","speed":"0.300470092893","heading":"0.974940920164"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4224853168","lon":"-122.175470607","speed":"0.810053622723","heading":"4.27012254793"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4226906168","lon":"-122.174571007","speed":"0.300470092893","heading":"0.974940920164"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4225241168","lon":"-122.175212207","speed":"10.9465138435","heading":"4.27012254793"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4226906168","lon":"-122.174571007","speed":"10.6995120049","heading":"0.974940920164"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4225241168","lon":"-122.175212207","speed":"10.9465138435","heading":"4.27012254793"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4226906168","lon":"-122.174571007","speed":"10.6995120049","heading":"0.974940920164"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4225241168","lon":"-122.175212207","speed":"10.9465138435","heading":"4.27012254793"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4225523168","lon":"-122.175022607","speed":"10.4187297821","heading":"0.974940920164"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4225241168","lon":"-122.175212207","speed":"10.9465138435","heading":"4.27012254793"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4225523168","lon":"-122.175022607","speed":"10.4187297821","heading":"0.974940920164"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4225241168","lon":"-122.175212207","speed":"10.9465138435","heading":"4.27012254793"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4225523168","lon":"-122.175022607","speed":"10.4187297821","heading":"0.974940920164"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4225241168","lon":"-122.175212207","speed":"10.9465138435","heading":"4.27012254793"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4225523168","lon":"-122.175022607","speed":"10.4187297821","heading":"0.974940920164"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4225241168","lon":"-122.175212207","speed":"10.9465138435","heading":"4.27012254793"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4225402168","lon":"-122.175049807","speed":"10.2280028343","heading":"0.974940920164"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4225241168","lon":"-122.175212207","speed":"10.9465138435","heading":"4.27012254793"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4225402168","lon":"-122.175049807","speed":"10.2280028343","heading":"0.974940920164"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4225241168","lon":"-122.175212207","speed":"10.9465138435","heading":"4.27012254793"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4225402168","lon":"-122.175049807","speed":"10.2280028343","heading":"0.974940920164"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4226964168","lon":"-122.174279607","speed":"3.83046655655","heading":"1.15575703067"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4225402168","lon":"-122.175049807","speed":"10.2280028343","heading":"0.974940920164"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4226964168","lon":"-122.174279607","speed":"3.83046655655","heading":"1.15575703067"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4225402168","lon":"-122.175049807","speed":"10.2280028343","heading":"0.974940920164"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4226964168","lon":"-122.174279607","speed":"3.83046655655","heading":"1.15575703067"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4225402168","lon":"-122.175049807","speed":"10.2280028343","heading":"0.974940920164"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4226964168","lon":"-122.174279607","speed":"3.83046655655","heading":"1.15575703067"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4226565168","lon":"-122.174647007","speed":"1.59279559851","heading":"0.974940920164"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4226964168","lon":"-122.174279607","speed":"3.83046655655","heading":"1.15575703067"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4226565168","lon":"-122.174647007","speed":"1.59279559851","heading":"0.974940920164"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4226964168","lon":"-122.174279607","speed":"3.83046655655","heading":"1.15575703067"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4226565168","lon":"-122.174647007","speed":"1.59279559851","heading":"0.974940920164"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227107168","lon":"-122.174247507","speed":"0.0776072368026","heading":"1.15575703067"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4226565168","lon":"-122.174647007","speed":"1.59279559851","heading":"0.974940920164"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227107168","lon":"-122.174247507","speed":"0.0776072368026","heading":"1.15575703067"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4226565168","lon":"-122.174647007","speed":"1.59279559851","heading":"0.974940920164"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227107168","lon":"-122.174247507","speed":"0.0776072368026","heading":"1.15575703067"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4226565168","lon":"-122.174647007","speed":"1.59279559851","heading":"0.974940920164"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227107168","lon":"-122.174247507","speed":"0.0776072368026","heading":"1.15575703067"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4226565168","lon":"-122.174647007","speed":"1.59279559851","heading":"0.974940920164"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227098168","lon":"-122.174253407","speed":"0.300399765372","heading":"1.16273834768"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4226565168","lon":"-122.174647007","speed":"1.59279559851","heading":"0.974940920164"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227098168","lon":"-122.174253407","speed":"0.300399765372","heading":"1.16273834768"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4226565168","lon":"-122.174647007","speed":"1.59279559851","heading":"0.974940920164"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227098168","lon":"-122.174253407","speed":"0.300399765372","heading":"1.16273834768"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4226565168","lon":"-122.174647007","speed":"1.59279559851","heading":"0.974940920164"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227098168","lon":"-122.174253407","speed":"0.300399765372","heading":"1.16273834768"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4226565168","lon":"-122.174647007","speed":"1.59279559851","heading":"0.974940920164"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227098168","lon":"-122.174253407","speed":"0.300399765372","heading":"1.16273834768"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4226565168","lon":"-122.174647007","speed":"1.59279559851","heading":"0.974940920164"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227098168","lon":"-122.174253407","speed":"0.300399765372","heading":"1.16273834768"}
+Getting Drone 1 .. 
+{"flightId":"3d64802e-97d5-444c-ac21-d1a5decb69dd","lat":"37.4226565168","lon":"-122.174647007","speed":"1.59279559851","heading":"0.974940920164"}
+Getting Drone 2 .. 
+2b
+{"flightId":"fc7df749-a26f-426c-ac6c-25f1c98ca399","lat":"37.4227112168","lon":"-122.174246007","speed":"0.476828688383","heading":"1.16273834768"}
